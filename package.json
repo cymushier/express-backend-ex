@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "yes"
+    "url": "https://github.com/cymushier/express-backend-ex.git"
   },
   "keywords": [
     "express",
